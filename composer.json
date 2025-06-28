@@ -1,0 +1,15 @@
+{
+    "name": "luis/marcos-practica-1",
+    "autoload": {
+        "psr-4": {
+            "Luis\\MarcosPractica1\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "arturhonores",
+            "email": "luis.arturhonores@gmail.com"
+        }
+    ],
+    "require": {}
+}
